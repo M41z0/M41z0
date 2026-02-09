@@ -1,6 +1,6 @@
 ## Terminal-CV 
 
-[![Terminal CV](https://github.com/M41z0/ton-terminal-cv/blob/main/terminal.png?raw=true)](https://M41z0.github.io/Terminal-CV)
+[![Terminal CV](https://github.com/M41z0/M41z0/blob/main/terminal.png?raw=true)](https://M41z0.github.io/Terminal-CV)
 
 
 <!--
