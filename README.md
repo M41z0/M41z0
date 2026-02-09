@@ -1,4 +1,7 @@
-## Hi there 👋
+## Terminal-CV 
+
+[![Terminal CV](https://github.com/M41z0/ton-terminal-cv/blob/main/terminal.png?raw=true)](https://M41z0.github.io/Terminal-CV)
+
 
 <!--
 **M41z0/M41z0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
